@@ -1,2 +1,2 @@
-#Ascent CSPM Bug Reports
+# Ascent CSPM Bug Reports
 Public Bug Reporting for the CSPM Beta
